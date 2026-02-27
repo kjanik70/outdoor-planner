@@ -1,0 +1,54 @@
+===== GOOGLE PLAY STORE LISTING =====
+
+--- App Name ---
+Outdoor Planner
+
+--- Short Description (80 chars max) ---
+Find the best weather across your favorite locations for outdoor adventures.
+
+--- Full Description (4000 chars max) ---
+Planning an outdoor adventure? Outdoor Planner helps you pick the perfect spot.
+
+Add your favorite locations — hiking trails, ski resorts, beaches, parks — and Outdoor Planner fetches real-time hourly weather forecasts for each one. It scores every location based on your personal preferences and highlights the best pick for today, tomorrow, or the weekend.
+
+HOW IT WORKS
+1. Add locations by searching for any city, town, or area worldwide
+2. Set your ideal conditions: preferred temperature, time window, and whether you want sunshine or snow
+3. Outdoor Planner scores each location 0–100 and shows you the best one at a glance
+
+KEY FEATURES
+• Hourly weather forecasts with temperature, precipitation probability, and conditions
+• Smart scoring algorithm based on your preferences
+• "Best Pick" highlight so you can decide at a glance
+• Day selector: Today, Tomorrow, or Weekend
+• Configurable time window (e.g., 9 AM – 3 PM)
+• Ideal temperature slider (32°F – 100°F)
+• Sunshine or Snow mode for different activities
+• Swipe-to-delete saved locations
+• Clean Material Design 3 interface
+• Works offline for saved location data
+• No account required — your data stays on your device
+
+PERFECT FOR
+• Hikers and trail runners
+• Skiers and snowboarders
+• Cyclists and road trippers
+• Beach-goers and surfers
+• Anyone who plans outdoor activities around weather
+
+Weather data provided by Open-Meteo — free, open-source, and accurate.
+
+--- Category ---
+Weather
+
+--- Content Rating ---
+Everyone
+
+--- Pricing ---
+Free
+
+--- Contact Email ---
+(your email — required by Play Store)
+
+--- Privacy Policy URL ---
+(required — see privacy-policy.html)

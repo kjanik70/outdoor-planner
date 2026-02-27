@@ -16,5 +16,10 @@ local.properties
 .DS_Store
 Thumbs.db
 
+# Signing
+*.keystore
+*.jks
+keystore.properties
+
 # Claude
 .claude/
